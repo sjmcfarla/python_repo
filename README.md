@@ -1,3 +1,3 @@
 #
 
-this is repo to test python scripting
+This is repo to test python scripting on MAC
